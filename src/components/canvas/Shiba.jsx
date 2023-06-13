@@ -15,7 +15,7 @@ const ShibaCanvas = () => {
     <Canvas>
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls
-          enableZoom={true}
+          enableZoom={false}
           maxPolarAngle={Math.PI / 2}
           minPolarAngle={Math.PI / 2}
         />
