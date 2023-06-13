@@ -12,11 +12,13 @@ import {
   nodejs,
   mongodb,
   jhfilm,
+  mysql,
   almabetter,
   bondsindia,
   social,
   ai,
   ecomm,
+  webflow,
   threejs,
 } from "../assets";
 
@@ -90,6 +92,14 @@ const technologies = [
   {
     name: "Three JS",
     icon: threejs,
+  },
+  {
+    name: "Webflow",
+    icon: webflow,
+  },
+  {
+    name: "Mysql",
+    icon: mysql,
   },
 ];
 

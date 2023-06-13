@@ -47,23 +47,25 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a fullstack web developer with a year of experience. I graduated
-        from Government College of Engineering, Aurangabad, with a degree in
-        Electronics and Telecommunications Engineering.
+        I'm a skilled full-stack web developer with a year of experience. I
+        graduated from Government College of Engineering, Aurangabad, with a
+        degree in Electronics and Telecommunications Engineering.
         <br />
-        Along my career path, I worked as a Webflow developer where I gained
-        valuable experience in building no code websites. Later, to enhance my
-        Web Development skills, I started learning through online resources like
-        The Odin Project and interned at Almabetter. I'm currently working as a
-        fullstack developer at Bonds India.
+        I have expertise in front-end technologies like HTML, CSS, JavaScript,
+        and React, as well as back-end technologies like Node.js and MongoDB. I
+        gained valuable experience as a Webflow developer at JH Film Production
+        and expanded my skills through self-learning and interning at
+        Almabetter.
         <br />
-        As a result, I have gained expertise in front-end technologies like
-        HTML, CSS, JavaScript, React as well as back-end technologies like
-        Node.js and MongoDB.
+        Currently, I work as a full-stack developer at Bonds India, where I
+        design and develop robust web applications. I'm always eager to learn
+        and implement new technologies to create efficient and elegant web
+        solutions. Additionally, I enjoy being a gaming content creator on
+        YouTube.
         <br />
-        I'm always keen to learn and implement new technologies to create
-        efficient and elegant web solutions. I also am a gaming content creator
-        on Youtube.
+        With my strong technical skills, dedication to learning, and passion for
+        creating web solutions, I'm confident in impressing recruiters and
+        contributing effectively to any development team.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10 justify-center">

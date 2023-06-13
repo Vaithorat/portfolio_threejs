@@ -1,7 +1,6 @@
 import React, { useRef, useState } from "react";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
-
 import { styles } from "../styles";
 import { ShibaCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
@@ -29,6 +28,10 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    if (!form.name || !form.email || !form.message) {
+      setError("Please fill in all the required fields.");
+      return;
+    }
     setLoading(true);
 
     emailjs
@@ -116,7 +119,7 @@ const Contact = () => {
 
           <button
             type="submit"
-            className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
+            className="bg-tertiary flex py-3  px-8 rounded-xl outline-none w-full justify-center text-white font-bold shadow-md  shadow-primary"
           >
             {loading ? "Sending..." : "Send"}
           </button>

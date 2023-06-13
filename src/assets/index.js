@@ -16,11 +16,12 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
+import mysql from "./tech/mysql.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
+import webflow from "./tech/webflow.png";
 import almabetter from "./company/almabetter.png";
 import jhfilm from "./company/jhfilm.png";
 import bondsindia from "./company/bondsindia.png";
@@ -35,6 +36,7 @@ export {
   creator,
   mobile,
   web,
+  webflow,
   github,
   menu,
   close,
@@ -46,6 +48,7 @@ export {
   html,
   javascript,
   mongodb,
+  mysql,
   nodejs,
   reactjs,
   redux,
