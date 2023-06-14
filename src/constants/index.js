@@ -105,12 +105,13 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Webflow Developer",
+    title: "Production Manager and Webflow Developer",
     company_name: "JH Film Production",
     icon: jhfilm,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - March 2022",
     points: [
+      "ManManaged content strategy and SEO, product expenditure, marketing, and hiring of 100+ talents",
       "Collaborated with a team of developers to build responsive and dynamic websites using the Webflow platform",
       "Assisted in the creation and maintenance of visually captivating web page, utilizing Webflow's powerful design and animation tools to enhance user experience and engagement.",
       "Actively participated in code reviews and debugging sessions, troubleshooting issues and providing efficient solutions to ensure smooth website functionality and user satisfaction.",
@@ -128,19 +129,19 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
-  {
-    title: "Fullstack Developer",
-    company_name: "Bonds India",
-    icon: bondsindia,
-    iconBg: "#E6DEDD",
-    date: "June 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing and receiving constructive feedback to and from other developers.",
-    ],
-  },
+  // {
+  //   title: "Fullstack Developer",
+  //   company_name: "Bonds India",
+  //   icon: bondsindia,
+  //   iconBg: "#E6DEDD",
+  //   date: "June 2023 - Present",
+  //   points: [
+  //     "Developing and maintaining web applications using React.js and other related technologies.",
+  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //     "Implementing responsive design and ensuring cross-browser compatibility.",
+  //     "Participating in code reviews and providing and receiving constructive feedback to and from other developers.",
+  //   ],
+  // },
 ];
 
 const testimonials = [
