@@ -62,10 +62,6 @@ const About = () => {
         and implement new technologies to create efficient and elegant web
         solutions. Additionally, I enjoy being a gaming content creator on
         YouTube.
-        <br />
-        With my strong technical skills, dedication to learning, and passion for
-        creating web solutions, I'm confident in impressing recruiters and
-        contributing effectively to any development team.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10 justify-center">
