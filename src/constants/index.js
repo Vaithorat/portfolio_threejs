@@ -111,7 +111,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2021 - March 2022",
     points: [
-      "ManManaged content strategy and SEO, product expenditure, marketing, and hiring of 100+ talents",
+      "Managed content strategy and SEO, product expenditure, marketing, and hiring of 100+ talents",
       "Collaborated with a team of developers to build responsive and dynamic websites using the Webflow platform",
       "Assisted in the creation and maintenance of visually captivating web page, utilizing Webflow's powerful design and animation tools to enhance user experience and engagement.",
       "Actively participated in code reviews and debugging sessions, troubleshooting issues and providing efficient solutions to ensure smooth website functionality and user satisfaction.",
