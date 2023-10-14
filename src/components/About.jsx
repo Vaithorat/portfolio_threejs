@@ -57,11 +57,11 @@ const About = () => {
         and expanded my skills through self-learning and interning at
         Almabetter.
         <br />
-        Currently, I work as a full-stack developer at Bonds India, where I
-        design and develop robust web applications. I'm always eager to learn
-        and implement new technologies to create efficient and elegant web
-        solutions. Additionally, I enjoy being a gaming content creator on
-        YouTube.
+        Currently, I work as a Software Developer at Launchpad Fintech - Bonds
+        India, where I design and develop robust web applications. I'm always
+        eager to learn and implement new technologies to create efficient and
+        elegant web solutions. Additionally, I enjoy being a gaming content
+        creator on YouTube.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10 justify-center">

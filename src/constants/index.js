@@ -105,15 +105,14 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Webflow Developer",
+    title: "Freelance Web Developer",
     company_name: "JH Film Production",
     icon: jhfilm,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - March 2022",
+    date: "Jan 2021 - Jan 2022",
     points: [
-      "Collaborated with a team of developers to build responsive and dynamic websites using the Webflow platform",
-      "Assisted in the creation and maintenance of visually captivating web page, utilizing Webflow's powerful design and animation tools to enhance user experience and engagement.",
-      "Actively participated in code reviews and debugging sessions, troubleshooting issues and providing efficient solutions to ensure smooth website functionality and user satisfaction.",
+      "Developed a video streaming website with webflow",
+      "Currently working on its Next.js version",
     ],
   },
   {
@@ -129,16 +128,17 @@ const experiences = [
     ],
   },
   {
-    title: "Fullstack Developer",
+    title: "Software Developer",
     company_name: "Bonds India",
     icon: bondsindia,
     iconBg: "#E6DEDD",
     date: "June 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing and receiving constructive feedback to and from other developers.",
+      "Transformed Figma mockups into dynamic web pages and layouts using Next.js, ensuring seamless functionality and optimal web and mobile responsiveness",
+      "Implemented robust encryption mechanisms within the Django framework, ensuring the security of over 100,000 sensitive records stored in MySQL.",
+      "Improved data retrieval and validation processes by integrating Karza, CBRICS, and NSDL third-party APIs into our Django-based platform, reducing data retrieval time by 90%.",
+      "Expanded application functionality by integrating Demat and Bank APIs through Django, enabling rapid data retrieval and storage for more than 50,000 records.",
+      "Streamlined database interactions by deploying efficient stored procedures, designed APIs for blog and seamlessly executed through AWS Lambda Functions.",
     ],
   },
 ];
@@ -192,27 +192,7 @@ const projects = [
     image: social,
     source_code_link: "https://retrogramsocial.netlify.app/",
   },
-  {
-    name: "Open AI Image Generator",
-    description:
-      "Users can enter a description of the image they want, and the app will use the DALL-E API to generate a unique image that matches the description. ",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: ai,
-    source_code_link: "https://dalleimggen.netlify.app/",
-  },
+
   {
     name: "E-commerce Website",
     description:
